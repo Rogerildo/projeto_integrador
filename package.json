@@ -1,0 +1,17 @@
+{
+  "name": "projeto_integrador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "teste.js",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev" : "nodemon teste.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
